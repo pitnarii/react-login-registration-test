@@ -68,3 +68,19 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# for Login
+
+## API for login (from melivecode)
+
+Free REST-API with fake data, Ready to be called for simulating the real-world application. Me Live Code is suitable for developers who want to quickly build and test prototypes.
+
+### sweetalert2
+
+pop-up for login (Success fully logged-in and error) please install sweetalert2 library
+
+### Install sweetalert2
+
+npm install sweetalert2
+
+
